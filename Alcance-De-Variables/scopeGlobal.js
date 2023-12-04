@@ -10,7 +10,7 @@ console.log(nombre);
 const saludo = () => {
     console.log(`Hola, ${nombre}`);
     nombre = `Frank`;
-    console.log(`Hola, ahora eres: ${nombre}`);
+    console.log(`Hola, ahora eres: ${nombre}`); 
 }
 
 saludo();
